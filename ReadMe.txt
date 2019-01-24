@@ -1,4 +1,4 @@
-# Data Analysis Project
+Data Analysis Project
 
 
 To get the final results of the project just run ensemble.py with time_data1.csv file in the same folder
